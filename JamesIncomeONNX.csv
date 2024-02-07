@@ -1,4 +1,4 @@
-AGT , SEX , REL_CATH, REL_PRES, REL_OTH, POL_DEM, POL_REP, POL_IND
+AGE , SEX , REL_CATH, REL_PRES, REL_OTH, POL_DEM, POL_REP, POL_IND
 2.7 ,  1 , 0,1,0 , 1,0,0}
 4.8 ,  -1 , 1, 0 ,0 , 0,1,0}
 3.3 ,  -1 , 0, 0 ,1 , 0,1,0}
